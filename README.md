@@ -1,4 +1,5 @@
-<?php
+```cpp
+<?cpp
 
 namespace mathiaworms;
 
@@ -20,3 +21,4 @@ class About extends Me
         return 'Get More knowledge';
     }
 }
+```
