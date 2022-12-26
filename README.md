@@ -21,3 +21,4 @@ class About extends Me
         return 'Get More knowledge';
     }
 }
+>
