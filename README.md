@@ -12,7 +12,6 @@ class About extends Me
             Ruby::class,
             HTML/CSS::class,
             Javascript::class,
-
         ];
     }
 
@@ -21,4 +20,3 @@ class About extends Me
         return 'Get More knowledge';
     }
 }
->
