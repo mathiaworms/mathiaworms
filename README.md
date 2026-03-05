@@ -1,57 +1,139 @@
-# 👋 Mathias !
+# 👋 Hi, I'm Mathias
 
-💻 IT / DevOps oriented profile – Systems, infrastructure and backend development.
-
----
-
-## 🧠 Knowledge
-
-### Languages
-![C#](https://img.shields.io/badge/C%23-.NET%209-512BD4?style=for-the-badge&logo=dotnet)
-![Java](https://img.shields.io/badge/Java-Spring%20%7C%20Hibernate-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-TypeScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Ruby](https://img.shields.io/badge/Ruby-Ruby%20Backend-CC342D?style=for-the-badge&logo=ruby)
+💻 Backend / DevOps oriented developer  
+🧠 Interested in **systems architecture, infrastructure and scalable backend services**
 
 ---
 
-### Backend / Frameworks
-![.NET](https://img.shields.io/badge/.NET-ASP.NET%20%7C%20BehaviourTree-512BD4?style=for-the-badge&logo=dotnet)
-![Spring](https://img.shields.io/badge/Spring-Spring%20Framework-6DB33F?style=for-the-badge&logo=spring)
-![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate)
+# 🚀 Current Project — Agoramon
+
+<p align="center">
+<img src="assets/agoramon-banner.png" width="100%">
+</p>
+
+**Agoramon** is a community platform inspired by **Discord, YouTube and Twitch**.
+
+The goal is to build a modern communication platform combining:
+
+- 💬 Real-time messaging
+- 🎤 Voice channels
+- 🎥 Video content
+- 📡 Future live streaming
+
+The project focuses heavily on **backend architecture, infrastructure and scalability**.
+
+### Main features
+
+- Real-time chat using **WebSocket**
+- Voice communication using **WebRTC**
+- Media uploads (images / videos / files)
+- Distributed ID generation (Snowflake)
+- Media processing (thumbnails, compression, encoding)
+
+### Core architecture
+
+Frontend
+- Vue.js 3
+- Vite
+- Pinia
+- Axios
+- Electron desktop client
+
+Backend
+- Java
+- Spring Boot
+- Spring Security
+- Spring WebSocket
+- Hibernate / JPA
+
+Infrastructure
+- Docker containers
+- Traefik reverse proxy
+- Redis caching
+- MariaDB database
+- MinIO object storage
+
+Monitoring
+- Prometheus
+- Grafana
+- Loki
+
+The project is designed with a strong focus on **scalability, infrastructure automation and distributed systems**.
 
 ---
 
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
+# 🧩 Previous Project (NDA)
+
+Worked on a **large-scale multiplayer game infrastructure project** involving:
+
+- custom **game server architecture**
+- **reverse engineering** of legacy network protocols
+- **AI systems using Behaviour Trees**
+- **game launcher and patching system**
+- **backend services and account management**
+- **network optimization and packet handling**
+
+Due to **NDA restrictions**, the project name and code cannot be publicly shared.
 
 ---
 
-### Systems
-![Linux](https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-Server%20%7C%20Desktop-0078D6?style=for-the-badge&logo=windows)
+# 🧠 Technical Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40"/>
+</p>
 
 ---
 
-### Networking
-![Networking](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20SSH%20%7C%20VPN-2C3E50?style=for-the-badge)
+## 🏗 Backend / Frameworks
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40"/>
+</p>
 
 ---
 
-### Databases
-![MariaDB](https://img.shields.io/badge/MariaDB-Database-003545?style=for-the-badge&logo=mariadb)
-![SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+## 🐳 DevOps & Infrastructure
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40"/>
+</p>
 
 ---
 
-### Other
-![Documentation](https://img.shields.io/badge/Documentation-Technical%20Writing-4A90E2?style=for-the-badge)
+## 🖥 Systems
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
+</p>
 
 ---
 
-## 🎯 Focus
-- Systems administration
-- DevOps practices
-- Infrastructure automation
-- Backend services
+## 🗄 Databases
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+</p>
+
+---
+
+# 🎯 Focus
+
+- Backend architecture
+- Infrastructure & DevOps
+- Scalable systems
+- Distributed services
+- Automation & deployment
