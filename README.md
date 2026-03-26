@@ -51,7 +51,7 @@ Infrastructure
 - Traefik reverse proxy
 - Redis caching
 - MariaDB database
-- MinIO object storage
+- SeaWeedFS
 
 Monitoring
 - Prometheus
